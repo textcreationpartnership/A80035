@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Coffee-house dialogue examined and refuted by some neighbors in the country, well-wishers to the kingdoms interest.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80035</idno>
+            <idno type="STC">Wing C4885</idno>
+            <idno type="STC">ESTC R42475</idno>
+            <idno type="EEBO-CITATION">36282046</idno>
+            <idno type="OCLC">ocm 36282046</idno>
+            <idno type="VID">150033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2226:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Coffee-house dialogue examined and refuted by some neighbors in the country, well-wishers to the kingdoms interest.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150033:1" rendition="simple:additions"/>
+            <head>THE Coffee-Houſe DIALOGUE Examined and Refuted: By ſome Neighbours in the Country, Well-wishers to the Kingdoms Intereſt.</head>
+            <sp>
+               <speaker>Coffee-man.</speaker>
+               <p>YOur Servant Good Mr. <hi>B.</hi> 'tis News to ſee you here.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>B.</hi>
+               </speaker>
+               <p>Say you ſo Sir? Truly I had not come now, were it not to per<g ref="char:EOLhyphen"/>uſe a Paper I have heard much Condemn'd, being Intituled <hi>A Coffee Houſe Dialogue,</hi> &amp;c, pray have it you?</p>
+            </sp>
+            <sp>
+               <speaker>Coff.</speaker>
+               <p>Yes Sir, Yonder Gentlemen are Reading it, if you pleaſe to ſtep thither, you may ſee it, they are Neighbours.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Good Morrow, Neighbours, If you pleaſe, I will make bold with that Paper when you have read it.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbours.</speaker>
+               <p>And welcome Neighbour <hi>B.</hi> or, if you pleaſe I will begin it, and Read it to you.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>With all my Heart if you pleaſe. <hi>He reads it, and having done asks his Opinion,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Neighbours.</speaker>
+               <p>Well Sir, what think ye of it?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Troth, I as much Condemn it as the reſt, I conceive it only a Trick to get money, though they abuſe the Kingdom by ſo doing, for which I will give you my Reaſons, which are theſe (the pretended Lawyer alledges) ſeveral things mentioned by Mr. <hi>Y.</hi> which are palpable abſurdities, of his own Invention; which are theſe, to pay Debts without Mony, make <hi>London</hi> Streets Navigable Rivers, to Harbour the Kings Ships on the top of a Hill, under a pretence to ſecure them from Wind and Weather, are all the mere Capritious Humors of his own Wind-Mill pate: as for the Regiſter by him mentioned, none but a Dough-baked Lawyer would deny the Advantages thereby accruing: But to tell you the Truth, our Law<g ref="char:EOLhyphen"/>yer deſerves what I could wiſh him, which is, an Hours Diſcourſe with the perſon who by him is <hi>(incognito)</hi> thus abuſed, and you would ſoon find who were the moſt reaſonable man.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbours.</speaker>
+               <p>I but Neighbour, you ſee the Perſon whoſe part you take, uſes a great ma<g ref="char:EOLhyphen"/>ny Tricks to makes Words paſs for Oracles, by ſaying d'ye underſtand me; P'ſhau, tel<g ref="char:EOLhyphen"/>ling him he was a Chair-man and the like.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>By your leave Neighbours, let me tell ye 'tis an eaſy thing for a Painter to diſguiſe a man with the ſhape of a Munky, as they have done him by alledging things, I am ſure he would bluſh to own, and laugh to think; he which makes him ſpeak all that Balderdaſh, he never thought could ſpeak no better ſenſe himſelf, as whoever Reads may bluſh to ſee ſo weak, nonſenſical Arguments urged by a Barriſter which may be confuted by a Pedler.</p>
+               <p>
+                  <hi>First,</hi> Is it probable a perſon of his Judgment ſhould ever brag he was a Chair-man, as our <hi>Nicholas Nemo</hi> alledges.</p>
+               <p>
+                  <hi>Secondly,</hi> That he ſhould pretend to underſtand there was a Plot before all the World elſe.</p>
+               <pb n="2" facs="tcp:150033:2" rendition="simple:additions"/>
+               <p>
+                  <hi>Thirdly,</hi> To pretend a knowledge of a Min he never ſee before, and to Condemn the Clergy in General, a ſad parcel of Compacted lyes, ſo ridiculous as would make him ſeem as much a Sot as our Half Witted Author, did not the World know him much better than they are ever like to know the other.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbours.</speaker>
+               <p>But Neighbour <hi>B.</hi> we do believe all you have ſaid, and ſay moreover, we believe the Author <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es in taxing him with the Root of the Follyes therein mentioned, which are not worth rehearſal, being ſo grandly idle as in particular to tax him with ſhowing the Word without Doors, a thing which we are Confident he ſcorns to foul his Fingers with<g ref="char:EOLhyphen"/>all.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Gramercy Neighbours, now you come to the Touch, my Friend being intermeddled withal, who meddles with no body being now acquitted, give me leave to ſhew you the An<g ref="char:EOLhyphen"/>tick Author in his ſeveral Monky Poſture, and I have done.</p>
+               <p>And Firſt our Young Barriſter, or rather Sucking Barriſter, if he muſt be a Barriſter, Pleads thus, the Queſtion between us, is not what hath and may be done, but what hath and may be juſtly done: Quoth he, thus he muſt argue every thing that both been done, hath been juſtly done, which, is like his Logic<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quoth our <hi>Ignoramus</hi> he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaid nothing to the puroſe, When he can prove <hi>William</hi> and <hi>Henry</hi> juſtly excluded <hi>Robert,</hi> the Reaſon alledged, becauſe <hi>William</hi> was not an honeſt man, not becauſe <hi>Robert</hi> was diſhoneſt, and then Winds it up with a What think ye, was not this a brave Fellow to be in Print (thus far <hi>Don Quixott,</hi> who will needs Fight with the Wind-mill of his own Brain, for want of better employment: and alledge one mans Writings to cut another mans Throat, making a man Right or Wrong, Vindicate what he Deteſts and Abhors, he would be loth to do the like by anothers Baſtard, now if our Young Barrow Hog, Barriſter I mean, can prove Mr. <hi>Y.</hi> ever vindicated this Li<g ref="char:EOLhyphen"/>bell, our Diſpute is ended: if he dare not affirm it, let him go like a Noddy, as he is; But by the way, the Queſtion is, firſt, Whether <hi>Robert</hi> were excl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed? if he were, by whom? if it be anſwered as it needs muſt, by a Parliament, Pray who ſhall we Credit, our Lawyer or the Parliament whether the Thing were Juſt or Unjuſt, if he be a man of ſuch Parts as to inform the Pillar of the Kingdom in Matter of Juſtice, certainly ſuch a man deſerves to be Comp<g ref="char:EOLhyphen"/>troller General of all Publick Proceedings, rather than a Chair-man, as without ſenſe he (not for want of Folly, calls Mr. <hi>Y.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Neighbours.</speaker>
+               <p>Troth Neighbour <hi>B.</hi> your Arguments are undenyable Truths, Pray lett's have ſome more of them; for certainly, none who is a Well-wiſher to the Welfare of the Kingdom, but would gladly hear them with delight.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Neighbours, I was never cut out to meddle with States affairs, I had rather Mind my Plough at home: But this I ſay, ſince, as he affirms it for a Truth the <hi>D.</hi> is a Papiſt, certain<g ref="char:EOLhyphen"/>ly Queen <hi>Mary</hi>'s days are not forgot yet, and God forbid they ſhould be ever renewed: He pretends it a hard Caſe the <hi>D.</hi> ſhould be denyed the Liberty of every ordinary Subject, in Caſe of Conformity: But in plain Terms, who can truſt to any thing in that Caſe, ſo long as the Notable old Shaver at <hi>Rome,</hi> can Abſolve who he will, for what Crymes he pleaſes. I will aſſure you this, let our Young Prate-a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pace ſay what he will, for my own part; I will neither meddle nor make. But let the Superiour Power freely Act in their own Sphere, and what they do I will never diſpute, whether it be Lawful or Unlawful, ſince it is my Duty to Obey, not to Rule. I will accordingly take their Words for Law, notwithſtanding our Young Braggadocio pretends to know more Law then they. If they ſhould thinck fit either Enact Laws for, or againſt the <hi>Ds.</hi> Perſon or Eſtate, I ſhould as certainly Beleive what they Acted, was done as much according to Law, as if our Young Lawyer had been their Oracle, which God forbid: This, Gentlemen and Neighbours, is the real Sentiment of what I not only think, but Reſolve to ſtand by in Spight of our Young Novicely Lawyer.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbours.</speaker>
+               <p>Well ſpoke neighbour <hi>B.</hi> we are all of the ſame Mind, and until our Law<g ref="char:EOLhyphen"/>yer can find better Reaſons, we ſhall be hardly induced to alter our ſettled Opinion: ſo Ho<g ref="char:EOLhyphen"/>neſt Neighbour we bid you good buy.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Farwell, Neighbours, Hartily.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
